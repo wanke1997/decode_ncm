@@ -4,7 +4,7 @@ Decode `*.ncm` file (NetEase Cloud Music format)
 
 Install requirements:
 ```
-pip install pycrypto
+pip install pycryptodome
 ```
 
 Usage:
